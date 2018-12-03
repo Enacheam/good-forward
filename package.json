@@ -1,6 +1,6 @@
 {
-  "name": "good-http-ext",
-  "version": "1.0.1",
+  "name": "good-forward",
+  "version": "1.0.0",
   "repository": "git://github.com/hapijs/good-http",
   "description": "Http(s) broadcasting for Good process monitor",
   "main": "lib/index.js",
@@ -19,5 +19,9 @@
   "engines": {
     "node": ">=4.0.0"
   },
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "author": {
+    "email": "mr.acheampongsnr@gmail.com",
+    "name": "Enoch Acheampong Snr."
+  }
 }
